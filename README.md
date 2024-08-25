@@ -5,6 +5,14 @@
 
 - 🌱 I’m currently learning **Data Analytics,AI/ML,Python Libraries,PowerBI ,Tableau**
 
+- 🤝 I’m looking for **Internship/Job**
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/khushi-k-506727270](www.linkedin.com/in/khushi-k-506727270)
+
+- 📫 How to reach me **kk12gcs@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/drive/folders/1PWzeBgwkJW0B6HmT_0O7B-hzJOi-sprT?usp=drive_link](https://drive.google.com/drive/folders/1PWzeBgwkJW0B6HmT_0O7B-hzJOi-sprT?usp=drive_link)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/khushi-k-506727270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/khushi-k-506727270" height="30" width="40" /></a>
