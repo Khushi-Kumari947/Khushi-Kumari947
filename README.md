@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">Diving into the field of Data Science</h3>
 
-- 🔭 I’m currently working on **Python_Project**
+- 🔭 I’m currently working on **Python_Project** ,**Data Analytics Projects**
 
 - 🌱 I’m currently learning **Data Analytics,AI/ML,Python Libraries,PowerBI ,Tableau**
 
