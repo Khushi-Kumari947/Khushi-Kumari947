@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">Diving into the field of MLOPS</h3>
 
-- 🔭 I’m currently working on **MlOPS**, **Data Analytics Projects and ETL pipelines**
+- 🔭 I’m currently working on **MLOPS**, **Data Analytics Projects and ETL pipelines**
 
 - 🌱 I’m currently learning **MLOPS, Machine Learning**
 
