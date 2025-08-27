@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
-<h3 align="center">Diving into the field of Data Science</h3>
+<h3 align="center">Diving into the field of MLOPS</h3>
 
-- 🔭 I’m currently working on **Python_Project**, **Data Analytics Projects**
+- 🔭 I’m currently working on **MlOPS**, **Data Analytics Projects and ETL pipelines**
 
-- 🌱 I’m currently learning **Data Analytics, AI/ML, Python Libraries, PowerBI, Tableau**
+- 🌱 I’m currently learning **MLOPS, Machine Learning**
 
 - 🤝 I’m looking for **Internship/Job**
 
