@@ -73,11 +73,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://webassets.mongodb.com/_com_assets/cms/mongodb-logo-rgb-j6w271g1xn.jpg" alt="MongoDB" width="40" height="40"/>
   </a>
- <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/static/images/airflow-logo-horiz.png" alt="Airflow" width="80" height="40"/>
+  <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://airflow.apache.org/docs/apache-airflow/stable/_images/pin_large.png" alt="Airflow" width="40" height="40"/>
   </a>
   <a href="https://mlflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/_static/mlflow-logo.png" alt="MLflow" width="80" height="40"/>
+    <img src="https://mlflow.org/docs/latest/_static/MLflow-logo-final-hex.png" alt="MLflow" width="40" height="40"/>
   </a>
 </p>
 
@@ -96,8 +96,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   </a>
   <a href="https://dbeaver.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/dbeaver/dbeaver/master/plugins/org.jkiss.dbeaver.core/icons/dbeaver.png" alt="DBeaver" width="40" height="40"/>
+    <img src="https://dbeaver.io/wp-content/uploads/2020/06/cropped-favicon-32x32.png" alt="DBeaver" width="40" height="40"/>
   </a>
 </p>
-
-
