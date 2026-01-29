@@ -6,7 +6,7 @@
 - 🤝 I’m looking for **Internship/Job**
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/khushi-k-506727270](https://www.linkedin.com/in/khushi-k-506727270)
 - 📫 How to reach me **Kumarikhushi0278@gmail.com**
-- 📄 Know about my experiences [Google Drive Resume Link](https://drive.google.com/drive/folders/1PWzeBgwkJW0B6HmT_0O7B-hzJOi-sprT?usp=drive_link)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
