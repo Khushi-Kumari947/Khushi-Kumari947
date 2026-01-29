@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Khushi Kumari</h1>
 <h3 align="center">Diving into the field of MLOPS</h3>
 
-- 🔭 I’m currently working on **MLOPS**, **Data Analytics Projects and ETL pipelines**
-- 🌱 I’m currently learning **MLOPS, Machine Learning**
-- 🤝 I’m looking for **Internship/Job**
-- 👨‍💻 All of my projects are available at [www.linkedin.com/in/khushi-k-506727270](https://www.linkedin.com/in/khushi-k-506727270)
-- 📫 How to reach me **Kumarikhushi0278@gmail.com**
+- 🔭 I’m currently working on **Transformers**, **Deep Learning Architectres** and **LLM Training**
+- 🌱 I’m currently learning **GenAI**
+- 🤝 I’m looking for **full-time opportunities** in AI/ML / Data Science.
+- 📫 How to reach me **Kumarikhushi0278@gmail.com** or connect me on [LinkedIn](https://www.linkedin.com/in/khushi-k-506727270)
 
 
 <h3 align="left">Connect with me:</h3>
