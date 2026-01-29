@@ -4,7 +4,6 @@
 - 🔭 I’m currently working on **Transformers**, **Deep Learning Architectres** and **LLM Training**.
 - 🌱 I’m currently learning **GenAI**.
 - 🤝 I’m looking for **full-time opportunities** in AI/ML / Data Science.
-- 👩‍💻Know my experiences:[Resume](https://drive.google.com/drive/folders/1PWzeBgwkJW0B6HmT_0O7B-hzJOi-sprT?usp=drive_link)
 - 📫 How to reach me **Kumarikhushi0278@gmail.com** or connect me on [LinkedIn](https://www.linkedin.com/in/khushi-k-506727270)
 
 
