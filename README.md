@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning **GenAI**.
 - 🤝 I’m looking for **full-time opportunities** in AI/ML / Data Science.
 - 📫 How to reach me **Kumarikhushi0278@gmail.com** or connect me on [LinkedIn](https://www.linkedin.com/in/khushi-k-506727270)
+- 👩‍💻 My resume-[Resume](https://drive.google.com/file/d/1_HQ5CoXsAeQT3Ljt-FiIZoSFUSJmT0Nl/view?usp=sharing)
 
 
 <h3 align="left">Connect with me:</h3>
